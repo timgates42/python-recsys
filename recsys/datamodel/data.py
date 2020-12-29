@@ -9,7 +9,7 @@ from recsys.algorithm import VERBOSE
 
 class Data:
     """
-    Handles the relationshops among users and items
+    Handles the relationships among users and items
     """
     def __init__(self):
         #"""
